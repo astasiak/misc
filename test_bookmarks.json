@@ -1,0 +1,12 @@
+{
+	"bookmarks": [
+		{
+			"name": "Search engines",
+			"folder": [
+				{ "name": "Google", "url": "www.google.com"},
+				{ "name": "Bing", "url": "www.bing.com"}
+			]
+		}
+	]
+}
+
