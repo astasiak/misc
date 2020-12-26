@@ -6,6 +6,6 @@
 		{ "name": "Other", "folder": [
 			{ "name": "Yandex", "url": "https://yandex.com" },
 			{ "name": "DuckDuckGo", "url": "https://duckduckgo.com" }
-		]
+		] }
 	]
 }
