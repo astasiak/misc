@@ -1,13 +1,11 @@
 {
 	"name": "Search engines",
-	"bookmarks": [
-		{
-			"name": "Search engines",
-			"folder": [
-				{ "name": "Google", "url": "https://www.google.com"},
-				{ "name": "Bing", "url": "https://www.bing.com"}
-			]
-		}
+	"folder": [
+		{ "name": "Google", "url": "https://www.google.com"},
+		{ "name": "Bing", "url": "https://www.bing.com"},
+		{ "name": "Other", "folder": [
+			{ "name": "Yandex", "url": "https://yandex.com" },
+			{ "name": "DuckDuckGo", "url": "https://duckduckgo.com" }
+		]
 	]
 }
-
